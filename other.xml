@@ -1,0 +1,27 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.4.1" last-modified="1529239678000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.8.0/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-213-216-255,,,43-50-52-255,,,240-173-78-155,,,41-118-240-155,,,57-110-240-155,,,64-64-64-155,,,77-94-255-255,,,152-198-255-255,,,0-39-102-255,,,89-155-55-255,,,66-130-53-255,,,59-118-53-255,,,43-52-23-255,,,129-152-60-158,,,64-73-152-158,,,147-150-152-120,,,76-79-81-179,,,123-133-145-255,,,119-128-149-255,,,0-0-0-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_All hallow's eve" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JQuery-CSS" />
+    <property name="SearchEveryWhereHistory" value="color&#10;find and replace&#10;`&#10;//&#10;den" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="evlsprt3.181" value="12" />
+    <property name="evlsprt3.183" value="10" />
+    <property name="file.gist.reindex.count" value="249090" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
