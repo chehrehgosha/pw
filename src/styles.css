@@ -1,13 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
-body{
-  background-image: url("bg.jpeg");
-  height: 100vh;
+@media (min-width: 1000px) {
+  body{
+    background-image: url("bg.jpeg");
+    height: 100vh;
 
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 }
+
 .uk-navbar-nav>li>a{
   color: #000000;
 }
